@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rikmohlmann
 - 👀 I’m a visua artist, music composer and gamedev
-- 🌱 I’m currently learning godot, gdscript, autogen, p5, processing.py 
+- 🌱 I’m currently learning godot, gdscript, autogen, p5, supercollider, processing.py 
 - 💞️ I’m looking to collaborate on all this
 - 📫 How to reach me [...](https://www.instagram.com/rikmohlmann/)
 
